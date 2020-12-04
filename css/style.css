@@ -1,0 +1,15 @@
+h3{
+	color :red;
+	border: 5px solid green;
+}
+.head1{
+	color:red;
+}
+#head1{
+	color :green;
+}
+.box{
+	width:200px;
+	height:200px;
+	background-color:rgba(00,00,00,.5);
+}
